@@ -1,2 +1,2 @@
 # Python
-This is folder contrain all the Pyton practice exercises.
+This is folder contain all the Python practices.
